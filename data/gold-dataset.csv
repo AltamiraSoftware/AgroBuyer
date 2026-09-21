@@ -1,0 +1,7 @@
+commercial_name,legal_name,cuit,city,province,segment,product,evidence_strength,volume_signal,distance_km,verification_status,source_url,review_notes
+Snacks Danal,Gabriel Maldonado e Hijos SRL,30-70861713-6,Saldán,Córdoba,processor,potato,direct,high,22,verified,https://www.exportadoresdecordoba.com/directorio,"Fabricante; revisar capacidad mensual y canal de compras"
+Fills,Fills S.A.S.,30-71873604-4,Córdoba,Córdoba,processor,potato,direct,medium,14,partial,https://indicadores.ar/empresa/30718736044-fills-s-a-s,"CUIT localizado; validar compra directa y planta"
+Fly Kitchen,Fly Kitchen S.A.,30-70728569-5,Córdoba,Córdoba,catering,potato,indirect,high,18,partial,https://www.dateas.com/es/empresa/fly-kitchen-sa-30707285695,"Validar menú, volumen y centralización de compras"
+Cordiez,CYRE S.A.,30-50357927-4,Córdoba,Córdoba,retail,potato,indirect,high,11,partial,https://www.cordiez.com.ar/,"Validar canal de proveedor agrícola y compras centralizadas"
+Servicios de Alimentos,Servicios de Alimentos S.A.,,Córdoba,Córdoba,catering,potato,indirect,high,28,needs_review,https://comprar.gob.ar/,"Resolver CUIT y localizar orden pública concreta"
+Distribuidor por validar,,,Villa María,Córdoba,distributor,potato,none,unknown,145,needs_review,,"Fila negativa de control; no debe clasificarse como comprador"
